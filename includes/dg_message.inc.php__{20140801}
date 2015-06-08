@@ -1,0 +1,12 @@
+
+            	<h2 class="box_round_header">Director General</h2>
+            	<div class="dg_headbox">
+						<div class "dg_img" >
+							<img src="images/commi.gif" alt="">
+							</div>
+							<div class="dg_name"><a href="#">Abdus Salam, PPM</a></div>
+							<br />
+							<h2><a href="dg_message.php" class="readmore_link">Read Message</a></h2>
+							<br />
+						</div>
+                    

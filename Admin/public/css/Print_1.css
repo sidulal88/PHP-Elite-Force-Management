@@ -1,0 +1,79 @@
+.HeaderSection
+{
+   display:none;
+
+}
+
+.footerSection
+{
+   display:none;
+}
+
+.header_search
+{
+   display:none;
+}
+
+
+/* Begin: Tables */
+table
+{
+    border: 1px solid #dbddff;
+    border-bottom: 1px solid #dbddff;
+    border-collapse: collapse;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #666666;
+    font-size: 15px;
+    margin: auto;
+    width: 100%;
+}
+
+table thead th{border-bottom: 1px solid #dbddff; font-size: 15px;}
+
+td
+{
+    border-bottom: 1px dotted #dadada;
+    font-size: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+th table tr td
+{
+    background-position: 1px 1px;
+    background-repeat: repeat-x;
+    background-color: #ffffff;
+    font-size: 100%;
+    text-align: center;
+    line-height: 1.3em;
+    color: #666666;
+    border-right: 1px solid #dbddff;
+}
+
+table tr td table
+{
+    font-size: 100%;
+    border-collapse: collapse;
+    border: 0px solid #DBDDFF;
+}
+
+
+table tr td table tr td
+{
+    font-size: 100%;
+    border-collapse: collapse;
+    border: 0px solid #DBDDFF;
+    border-bottom: 0px dotted #dadada;
+    padding: 10px 10px;
+}
+
+td table tr td table tr td
+{
+    font-size: 100%;
+    border-collapse: collapse;
+    border: 0px solid #DBDDFF;
+    border-bottom: 0px dotted #dadada;
+    padding: 1px;
+}
+

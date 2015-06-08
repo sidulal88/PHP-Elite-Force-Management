@@ -1,0 +1,33 @@
+{
+	"name": "pronto",
+	"title": "Pronto",
+	"description": "A jQuery plugin for faster page loads.",
+	"keywords": [
+		"performance",
+		"speed",
+		"ajax",
+		"pushState",
+		"popState",
+		"history",
+		"html5",
+		"benplum"
+	],
+	"version": "0.6.3",
+	"author": {
+		"name": "Ben Plum",
+		"url": "http://www.benplum.com"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "http://www.opensource.org/licenses/mit-license.php"
+		}
+	],
+	"docs": "http://www.benplum.com/projects/pronto/",
+	"demo": "http://www.benplum.com/projects/pronto/",
+	"download": "https://github.com/benplum/Pronto",
+	"bugs": "https://github.com/benplum/Pronto/issues",
+	"dependencies": {
+		"jquery": ">=1.7"
+	}
+}

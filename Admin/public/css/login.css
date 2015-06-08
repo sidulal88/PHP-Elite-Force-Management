@@ -1,0 +1,28 @@
+
+
+#Login
+{
+    width:430px;
+    height:260px;
+    margin: 10% auto;
+    background: url(../public/images/login_new.jpg) no-repeat;
+}
+
+#login table{
+    padding: 120px 0px 0px 80px;
+    
+}
+
+#footer
+{
+    height:20px;
+    bottom: 0px;
+    padding: 10px 10px;
+    position: fixed;
+    width: 100%;
+    left: 0px;
+    color: white;
+    margin-right: 10px;
+    background-color: #111111;
+}
+

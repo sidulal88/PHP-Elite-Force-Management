@@ -1,0 +1,38 @@
+<h2 class="box_round_header">Latest News</h2>
+            	<div class="notice_headbox">
+                	
+							<marquee direction="up" scrollamount="3">
+							<p class="notice">
+								<i class="fa fa-chevron-circle-right"></i>
+									<a href="#">This is Update news.</a>
+							</p>
+							<p class="notice">
+								<i class="fa fa-chevron-circle-right"></i>
+									<a href="#">This is Update news</a>
+							</p>
+							 <p class="notice">
+								<i class="fa fa-chevron-circle-right"></i>
+									<a href="#">This is Update news.</a>
+							</p>
+							<p class="notice">
+								<i class="fa fa-chevron-circle-right"></i>
+									<a href="#">This is Update news</a>
+							</p>
+							 <p class="notice">
+								<i class="fa fa-chevron-circle-right"></i>
+									<a href="#">This is Update news.</a>
+							</p>
+							<p class="notice">
+								<i class="fa fa-chevron-circle-right"></i>
+									<a href="#">This is Update news</a>
+							</p>
+							 <p class="notice">
+								<i class="fa fa-chevron-circle-right"></i>
+									<a href="#">This is Update news.</a>
+							</p>
+							<p class="notice">
+								<i class="fa fa-chevron-circle-right"></i>
+									<a href="#">This is Update news</a>
+							</p>
+							</marquee>
+                  </div>
