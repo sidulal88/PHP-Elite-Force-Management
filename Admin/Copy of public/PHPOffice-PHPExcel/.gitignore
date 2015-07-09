@@ -1,5 +1,0 @@
-build/PHPExcel.phar
-unitTests/codeCoverage
-
-*.buildpath
-*.project
